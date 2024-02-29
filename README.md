@@ -1,0 +1,1 @@
+# inheritance-between-classes-Object.create
